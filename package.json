@@ -1,0 +1,13 @@
+{
+  "name": "zbc-xlsx-execl",
+  "version": "1.0.5",
+  "main": "./dist/exportXlsx.js",
+  "license": "MIT",
+  "author": "zbc",
+  "keywords": [
+    "exportXlsx"
+  ],
+  "scripts": {
+    "build":"webpack"
+  }
+}
